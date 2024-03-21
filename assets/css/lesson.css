@@ -1,0 +1,10 @@
+:root {
+    --main-color: #00ad68
+}
+
+/* Start Navbar */
+.navbar.navbar-expand-lg {
+    background-color: var(--main-color);
+}
+
+/* End Navbar */
